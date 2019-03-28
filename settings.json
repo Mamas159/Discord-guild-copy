@@ -1,7 +1,7 @@
 {
     "originalGuildId": "559770193820385300",
     "newGuildId": "560893806505885696",
-    "newGuildAdminRoleId": "",
+    "newGuildAdminRoleId": "admine",
     "copyEmojis": false,
     "copyBans": false,
     "language": "en",
