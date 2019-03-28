@@ -1,1 +1,1 @@
-worker: node copy.js
+worker: node copy.js clone
